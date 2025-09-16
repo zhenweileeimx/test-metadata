@@ -1,0 +1,36 @@
+{
+  "name": "Sleepy Character",
+  "description": "A drowsy character with half-closed eyes, ready for a cozy nap. This sleepy blue character embodies peace and relaxation.",
+  "image": "https://pollinations.ai/p/cute_blue_character_sleepy_tired_anime_style_kawaii_drowsy_soft_colors",
+  "external_url": "https://nft-collection.com/sleepy-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Peaceful"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dreamy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half-closed"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    }
+  ]
+}

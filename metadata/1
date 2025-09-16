@@ -1,0 +1,36 @@
+{
+  "name": "Happy Character",
+  "description": "A cheerful character with a bright smile, spreading joy and positive vibes. This adorable blue character represents happiness and contentment.",
+  "image": "https://pollinations.ai/p/cute_blue_character_happy_smiling_anime_style_kawaii_cheerful_bright_colors",
+  "external_url": "https://nft-collection.com/happy-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkling"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    }
+  ]
+}

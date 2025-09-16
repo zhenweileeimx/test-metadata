@@ -1,0 +1,36 @@
+{
+  "name": "Angry Character",
+  "description": "A fierce character with an angry expression, showing determination and strength. This fiery blue character won't back down from any challenge.",
+  "image": "https://pollinations.ai/p/cute_blue_character_angry_mad_fierce_anime_style_kawaii_determined_red_background",
+  "external_url": "https://nft-collection.com/angry-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Fierce"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fiery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Intense"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Crying Character",
+  "description": "An emotional character with tears streaming down, expressing vulnerability and sadness. This touching blue character shows the full range of emotions.",
+  "image": "https://pollinations.ai/p/cute_blue_character_crying_sad_tears_anime_style_kawaii_emotional_soft_blue",
+  "external_url": "https://nft-collection.com/crying-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Crying"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rainy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    }
+  ]
+}

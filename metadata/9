@@ -1,0 +1,40 @@
+{
+  "name": "Golden Character",
+  "description": "An ultra-rare golden character with a majestic aura and sparkling effects. This legendary blue character with golden accents is the crown jewel of the collection.",
+  "image": "https://pollinations.ai/p/cute_blue_character_golden_legendary_sparkling_majestic_anime_style_kawaii_rare_shiny",
+  "external_url": "https://nft-collection.com/golden-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Majestic"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkling"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Golden Aura"
+    }
+  ]
+}

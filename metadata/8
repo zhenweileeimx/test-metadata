@@ -1,0 +1,36 @@
+{
+  "name": "Thinking Character",
+  "description": "A contemplative character with a thoughtful expression, deep in thought. This intellectual blue character is pondering life's big questions.",
+  "image": "https://pollinations.ai/p/cute_blue_character_thinking_contemplative_thoughtful_anime_style_kawaii_philosophical",
+  "external_url": "https://nft-collection.com/thinking-character",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Contemplative"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cloudy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Test"
+    }
+  ]
+}
