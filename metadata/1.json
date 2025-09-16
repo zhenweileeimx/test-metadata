@@ -1,0 +1,36 @@
+{
+  "name": "Happy Capoo",
+  "description": "A cheerful Capoo with a bright smile, spreading joy and positive vibes. This adorable blue cat represents happiness and contentment in the world of cute stickers.",
+  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_happy_smiling_anime_style_sticker_kawaii_cheerful_bright_colors",
+  "external_url": "https://nft-collection.com/happy-capoo",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Joyful"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sunny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sparkling"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Capoo"
+    }
+  ]
+}

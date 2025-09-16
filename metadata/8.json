@@ -1,0 +1,36 @@
+{
+  "name": "Thinking Capoo",
+  "description": "A contemplative Capoo with a thoughtful expression, deep in thought. This intellectual blue cat is pondering life's big questions.",
+  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_thinking_contemplative_thoughtful_anime_style_sticker_kawaii_philosophical",
+  "external_url": "https://nft-collection.com/thinking-capoo",
+  "attributes": [
+    {
+      "trait_type": "Expression",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Contemplative"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cloudy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Focused"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Capoo"
+    }
+  ]
+}
