@@ -1,8 +1,8 @@
 {
-  "name": "Sleepy Capoo",
-  "description": "A drowsy Capoo with half-closed eyes, ready for a cozy nap. This sleepy blue cat embodies peace and relaxation.",
-  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_sleepy_tired_anime_style_sticker_kawaii_drowsy_soft_colors",
-  "external_url": "https://nft-collection.com/sleepy-capoo",
+  "name": "Sleepy Character",
+  "description": "A drowsy character with half-closed eyes, ready for a cozy nap. This sleepy blue character embodies peace and relaxation.",
+  "image": "https://pollinations.ai/p/cute_blue_character_sleepy_tired_anime_style_kawaii_drowsy_soft_colors",
+  "external_url": "https://nft-collection.com/sleepy-character",
   "attributes": [
     {
       "trait_type": "Expression",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "Capoo"
+      "value": "Test"
     }
   ]
 }

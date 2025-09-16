@@ -1,8 +1,8 @@
 {
-  "name": "Golden Capoo",
-  "description": "An ultra-rare golden Capoo with a majestic aura and sparkling effects. This legendary blue cat with golden accents is the crown jewel of the collection.",
-  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_golden_legendary_sparkling_majestic_anime_style_sticker_kawaii_rare_shiny",
-  "external_url": "https://nft-collection.com/golden-capoo",
+  "name": "Golden Character",
+  "description": "An ultra-rare golden character with a majestic aura and sparkling effects. This legendary blue character with golden accents is the crown jewel of the collection.",
+  "image": "https://pollinations.ai/p/cute_blue_character_golden_legendary_sparkling_majestic_anime_style_kawaii_rare_shiny",
+  "external_url": "https://nft-collection.com/golden-character",
   "attributes": [
     {
       "trait_type": "Expression",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "Capoo"
+      "value": "Test"
     },
     {
       "trait_type": "Special",

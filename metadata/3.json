@@ -1,8 +1,8 @@
 {
-  "name": "Crying Capoo",
-  "description": "An emotional Capoo with tears streaming down, expressing vulnerability and sadness. This touching blue cat shows the full range of emotions.",
-  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_crying_sad_tears_anime_style_sticker_kawaii_emotional_soft_blue",
-  "external_url": "https://nft-collection.com/crying-capoo",
+  "name": "Crying Character",
+  "description": "An emotional character with tears streaming down, expressing vulnerability and sadness. This touching blue character shows the full range of emotions.",
+  "image": "https://pollinations.ai/p/cute_blue_character_crying_sad_tears_anime_style_kawaii_emotional_soft_blue",
+  "external_url": "https://nft-collection.com/crying-character",
   "attributes": [
     {
       "trait_type": "Expression",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "Capoo"
+      "value": "Test"
     }
   ]
 }

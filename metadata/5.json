@@ -1,8 +1,8 @@
 {
-  "name": "Love Capoo",
-  "description": "A romantic Capoo with heart eyes and blushing cheeks, spreading love and affection. This adorable blue cat is head over heels in love.",
-  "image": "https://pollinations.ai/p/cute_blue_cat_capoo_love_heart_eyes_blushing_anime_style_sticker_kawaii_romantic_pink_hearts",
-  "external_url": "https://nft-collection.com/love-capoo",
+  "name": "Love Character",
+  "description": "A romantic character with heart eyes and blushing cheeks, spreading love and affection. This adorable blue character is head over heels in love.",
+  "image": "https://pollinations.ai/p/cute_blue_character_love_heart_eyes_blushing_anime_style_kawaii_romantic_pink_hearts",
+  "external_url": "https://nft-collection.com/love-character",
   "attributes": [
     {
       "trait_type": "Expression",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Character",
-      "value": "Capoo"
+      "value": "Test"
     }
   ]
 }
