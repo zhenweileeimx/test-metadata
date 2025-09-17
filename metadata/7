@@ -1,40 +1,52 @@
 {
-  "name": "Cool Character",
-  "description": "A confident character wearing sunglasses with a cool attitude. This stylish blue character is the epitome of coolness and swagger.",
-  "image": "https://pollinations.ai/p/cute_blue_character_cool_sunglasses_confident_anime_style_kawaii_stylish_swag",
-  "external_url": "https://nft-collection.com/cool-character",
+  "name": "Void Warlock",
+  "description": "Wielder of dark cosmic energies, the Void Warlock manipulates space and time itself. Their forbidden magic can tear holes in reality and summon creatures from beyond.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_void_warlock_dark_mage_cosmic_powers_purple_energy_staff_robes_space_magic_fantasy_art",
+  "external_url": "https://immutable-gaming.com/void-warlock",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Cool"
+      "trait_type": "Class",
+      "value": "Warlock"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Confident"
+      "trait_type": "Element",
+      "value": "Void"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Level",
+      "value": 91
+    },
+    {
+      "trait_type": "Attack",
+      "value": 96
+    },
+    {
+      "trait_type": "Defense",
+      "value": 71
+    },
+    {
+      "trait_type": "Speed",
+      "value": 81
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Void Scepter"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Cosmic Robes"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Reality Rift"
     },
     {
       "trait_type": "Background",
-      "value": "Urban"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Hidden"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
-    },
-    {
-      "trait_type": "Accessory",
-      "value": "Sunglasses"
+      "value": "Void Dimension"
     }
   ]
 }

@@ -1,36 +1,52 @@
 {
-  "name": "Crying Character",
-  "description": "An emotional character with tears streaming down, expressing vulnerability and sadness. This touching blue character shows the full range of emotions.",
-  "image": "https://pollinations.ai/p/cute_blue_character_crying_sad_tears_anime_style_kawaii_emotional_soft_blue",
-  "external_url": "https://nft-collection.com/crying-character",
+  "name": "Cyber Knight",
+  "description": "A fusion of medieval valor and futuristic technology, the Cyber Knight protects the digital realm with honor. Enhanced with cybernetic implants and wielding an energy sword.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_cyber_knight_futuristic_armor_energy_sword_cyberpunk_warrior_neon_lights_digital_art",
+  "external_url": "https://immutable-gaming.com/cyber-knight",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Crying"
+      "trait_type": "Class",
+      "value": "Knight"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Sad"
+      "trait_type": "Element",
+      "value": "Tech"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Level",
+      "value": 82
+    },
+    {
+      "trait_type": "Attack",
+      "value": 85
+    },
+    {
+      "trait_type": "Defense",
+      "value": 95
+    },
+    {
+      "trait_type": "Speed",
+      "value": 72
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Plasma Sword"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Cyber Plate"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Shield Matrix"
     },
     {
       "trait_type": "Background",
-      "value": "Rainy"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Teary"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Neon City"
     }
   ]
 }

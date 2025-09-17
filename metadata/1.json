@@ -1,36 +1,52 @@
 {
-  "name": "Happy Character",
-  "description": "A cheerful character with a bright smile, spreading joy and positive vibes. This adorable blue character represents happiness and contentment.",
-  "image": "https://pollinations.ai/p/cute_blue_character_happy_smiling_anime_style_kawaii_cheerful_bright_colors",
-  "external_url": "https://nft-collection.com/happy-character",
+  "name": "Shadow Assassin",
+  "description": "A master of stealth and precision, the Shadow Assassin moves through darkness with deadly grace. Equipped with dual shadow blades and enhanced agility, this legendary warrior is feared across all gaming realms.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_shadow_assassin_ninja_warrior_dual_blades_dark_armor_stealth_fantasy_art_digital_painting",
+  "external_url": "https://immutable-gaming.com/shadow-assassin",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Happy"
+      "trait_type": "Class",
+      "value": "Assassin"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Joyful"
+      "trait_type": "Element",
+      "value": "Shadow"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Level",
+      "value": 95
+    },
+    {
+      "trait_type": "Attack",
+      "value": 98
+    },
+    {
+      "trait_type": "Defense",
+      "value": 75
+    },
+    {
+      "trait_type": "Speed",
+      "value": 100
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Dual Shadow Blades"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Shadow Cloak"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Shadow Step"
     },
     {
       "trait_type": "Background",
-      "value": "Sunny"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sparkling"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Moonlit Rooftop"
     }
   ]
 }

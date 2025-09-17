@@ -1,36 +1,52 @@
 {
-  "name": "Thinking Character",
-  "description": "A contemplative character with a thoughtful expression, deep in thought. This intellectual blue character is pondering life's big questions.",
-  "image": "https://pollinations.ai/p/cute_blue_character_thinking_contemplative_thoughtful_anime_style_kawaii_philosophical",
-  "external_url": "https://nft-collection.com/thinking-character",
+  "name": "Earth Guardian",
+  "description": "Protector of the ancient stones and keeper of geological secrets, the Earth Guardian commands rock and mineral. Their defensive abilities are unmatched in battle.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_earth_guardian_stone_warrior_rock_armor_crystal_hammer_mountain_background_fantasy_art",
+  "external_url": "https://immutable-gaming.com/earth-guardian",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Thinking"
+      "trait_type": "Class",
+      "value": "Guardian"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Contemplative"
+      "trait_type": "Element",
+      "value": "Earth"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Level",
+      "value": 73
+    },
+    {
+      "trait_type": "Attack",
+      "value": 79
+    },
+    {
+      "trait_type": "Defense",
+      "value": 98
+    },
+    {
+      "trait_type": "Speed",
+      "value": 65
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Crystal Hammer"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Stone Plate"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Earthquake"
     },
     {
       "trait_type": "Background",
-      "value": "Cloudy"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Focused"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Crystal Cave"
     }
   ]
 }

@@ -1,36 +1,52 @@
 {
-  "name": "Surprised Character",
-  "description": "A shocked character with wide eyes and open mouth, expressing pure surprise and amazement. This blue character is completely stunned by something unexpected.",
-  "image": "https://pollinations.ai/p/cute_blue_character_surprised_shocked_wide_eyes_anime_style_kawaii_amazed_bright",
-  "external_url": "https://nft-collection.com/surprised-character",
+  "name": "Lightning Monk",
+  "description": "A master of martial arts and electrical energy, the Lightning Monk combines ancient fighting techniques with storm magic. Their strikes are as fast as lightning and twice as deadly.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_lightning_monk_martial_artist_electric_powers_robes_staff_storm_magic_temple_background_fantasy_art",
+  "external_url": "https://immutable-gaming.com/lightning-monk",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Surprised"
+      "trait_type": "Class",
+      "value": "Monk"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Amazed"
+      "trait_type": "Element",
+      "value": "Lightning"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Level",
+      "value": 84
+    },
+    {
+      "trait_type": "Attack",
+      "value": 87
+    },
+    {
+      "trait_type": "Defense",
+      "value": 78
+    },
+    {
+      "trait_type": "Speed",
+      "value": 96
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Storm Staff"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Sacred Robes"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Thunder Strike"
     },
     {
       "trait_type": "Background",
-      "value": "Electric"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Wide"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Storm Temple"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "name": "Divine Paladin",
+  "description": "Champion of light and justice, the Divine Paladin wields holy power against the forces of darkness. Their unwavering faith provides both offensive might and protective blessings.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_divine_paladin_holy_warrior_golden_armor_sacred_sword_divine_light_cathedral_background_fantasy_art",
+  "external_url": "https://immutable-gaming.com/divine-paladin",
+  "attributes": [
+    {
+      "trait_type": "Class",
+      "value": "Paladin"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Level",
+      "value": 100
+    },
+    {
+      "trait_type": "Attack",
+      "value": 100
+    },
+    {
+      "trait_type": "Defense",
+      "value": 100
+    },
+    {
+      "trait_type": "Speed",
+      "value": 85
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Divine Sword"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Golden Plate"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Divine Judgment"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sacred Cathedral"
+    }
+  ]
+}

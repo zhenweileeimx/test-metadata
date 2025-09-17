@@ -1,36 +1,52 @@
 {
-  "name": "Sleepy Character",
-  "description": "A drowsy character with half-closed eyes, ready for a cozy nap. This sleepy blue character embodies peace and relaxation.",
-  "image": "https://pollinations.ai/p/cute_blue_character_sleepy_tired_anime_style_kawaii_drowsy_soft_colors",
-  "external_url": "https://nft-collection.com/sleepy-character",
+  "name": "Flame Sorceress",
+  "description": "Wielding the ancient power of eternal flames, the Flame Sorceress commands fire with unmatched mastery. Her magical prowess can incinerate enemies or forge powerful enchantments.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_flame_sorceress_fire_mage_staff_magical_robes_flames_fantasy_art_digital_painting",
+  "external_url": "https://immutable-gaming.com/flame-sorceress",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Sleepy"
+      "trait_type": "Class",
+      "value": "Sorceress"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Peaceful"
+      "trait_type": "Element",
+      "value": "Fire"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Level",
+      "value": 88
+    },
+    {
+      "trait_type": "Attack",
+      "value": 92
+    },
+    {
+      "trait_type": "Defense",
+      "value": 68
+    },
+    {
+      "trait_type": "Speed",
+      "value": 78
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Inferno Staff"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Flame Robes"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Meteor Storm"
     },
     {
       "trait_type": "Background",
-      "value": "Dreamy"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Half-closed"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Volcanic Cavern"
     }
   ]
 }

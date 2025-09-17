@@ -1,36 +1,52 @@
 {
-  "name": "Angry Character",
-  "description": "A fierce character with an angry expression, showing determination and strength. This fiery blue character won't back down from any challenge.",
-  "image": "https://pollinations.ai/p/cute_blue_character_angry_mad_fierce_anime_style_kawaii_determined_red_background",
-  "external_url": "https://nft-collection.com/angry-character",
+  "name": "Forest Ranger",
+  "description": "Guardian of the ancient woodlands, the Forest Ranger commands nature's power with bow and arrow. Swift, silent, and deadly accurate, they protect the natural world from all threats.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_forest_ranger_archer_bow_leather_armor_woodland_guardian_nature_magic_fantasy_art",
+  "external_url": "https://immutable-gaming.com/forest-ranger",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Angry"
+      "trait_type": "Class",
+      "value": "Ranger"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Fierce"
+      "trait_type": "Element",
+      "value": "Nature"
     },
     {
       "trait_type": "Rarity",
       "value": "Rare"
     },
     {
+      "trait_type": "Level",
+      "value": 76
+    },
+    {
+      "trait_type": "Attack",
+      "value": 88
+    },
+    {
+      "trait_type": "Defense",
+      "value": 72
+    },
+    {
+      "trait_type": "Speed",
+      "value": 90
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Elven Longbow"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Leather Vest"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Animal Companion"
+    },
+    {
       "trait_type": "Background",
-      "value": "Fiery"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Intense"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Ancient Forest"
     }
   ]
 }

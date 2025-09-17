@@ -1,36 +1,52 @@
 {
-  "name": "Love Character",
-  "description": "A romantic character with heart eyes and blushing cheeks, spreading love and affection. This adorable blue character is head over heels in love.",
-  "image": "https://pollinations.ai/p/cute_blue_character_love_heart_eyes_blushing_anime_style_kawaii_romantic_pink_hearts",
-  "external_url": "https://nft-collection.com/love-character",
+  "name": "Ice Berserker",
+  "description": "Born in the frozen wastes, the Ice Berserker channels primal fury and frost magic. Their rage burns cold, freezing enemies solid while dealing devastating melee damage.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_ice_berserker_viking_warrior_frost_axe_fur_armor_ice_magic_frozen_battlefield_fantasy_art",
+  "external_url": "https://immutable-gaming.com/ice-berserker",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Lovestruck"
+      "trait_type": "Class",
+      "value": "Berserker"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Romantic"
+      "trait_type": "Element",
+      "value": "Ice"
     },
     {
       "trait_type": "Rarity",
       "value": "Rare"
     },
     {
+      "trait_type": "Level",
+      "value": 79
+    },
+    {
+      "trait_type": "Attack",
+      "value": 94
+    },
+    {
+      "trait_type": "Defense",
+      "value": 82
+    },
+    {
+      "trait_type": "Speed",
+      "value": 68
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Frost Axe"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Fur Mail"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Berserker Rage"
+    },
+    {
       "trait_type": "Background",
-      "value": "Hearts"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Heart-shaped"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
+      "value": "Icy Tundra"
     }
   ]
 }

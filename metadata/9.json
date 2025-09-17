@@ -1,40 +1,52 @@
 {
-  "name": "Golden Character",
-  "description": "An ultra-rare golden character with a majestic aura and sparkling effects. This legendary blue character with golden accents is the crown jewel of the collection.",
-  "image": "https://pollinations.ai/p/cute_blue_character_golden_legendary_sparkling_majestic_anime_style_kawaii_rare_shiny",
-  "external_url": "https://nft-collection.com/golden-character",
+  "name": "Wind Dancer",
+  "description": "Graceful and swift, the Wind Dancer moves like the breeze itself. Master of aerial combat and wind magic, they can fly through battles with ethereal beauty and deadly precision.",
+  "image": "https://pollinations.ai/p/epic_gaming_character_wind_dancer_aerial_warrior_flowing_robes_wind_magic_graceful_movement_sky_background_fantasy_art",
+  "external_url": "https://immutable-gaming.com/wind-dancer",
   "attributes": [
     {
-      "trait_type": "Expression",
-      "value": "Majestic"
+      "trait_type": "Class",
+      "value": "Dancer"
     },
     {
-      "trait_type": "Color",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Mood",
-      "value": "Legendary"
+      "trait_type": "Element",
+      "value": "Wind"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Level",
+      "value": 69
+    },
+    {
+      "trait_type": "Attack",
+      "value": 76
+    },
+    {
+      "trait_type": "Defense",
+      "value": 64
+    },
+    {
+      "trait_type": "Speed",
+      "value": 99
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Wind Blades"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Silk Robes"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Tornado Spin"
     },
     {
       "trait_type": "Background",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sparkling"
-    },
-    {
-      "trait_type": "Character",
-      "value": "Test"
-    },
-    {
-      "trait_type": "Special",
-      "value": "Golden Aura"
+      "value": "Sky Realm"
     }
   ]
 }
